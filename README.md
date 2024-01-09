@@ -1,2 +1,2 @@
 # EducaRoll
-Ijava game
+Dice game made with Ijava
